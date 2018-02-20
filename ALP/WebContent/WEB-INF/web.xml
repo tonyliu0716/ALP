@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <display-name>ALP</display-name>
+  
+  <!-- <servlet>
+  	<servlet-name>hello</servlet-name>
+  	<servlet-class>controller.hello</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>hello</servlet-name>
+  	<url-pattern>/ALP/hello</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>hello1</servlet-name>
+  	<servlet-class>controller.callandsaveBKT</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>hello1</servlet-name>
+  	<url-pattern>/ALP/callandsaveBKT</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>hello2</servlet-name>
+  	<servlet-class>controller.getLValue</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>hello2</servlet-name>
+  	<url-pattern>/ALP/getLValue</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  	<servlet-name>hello3</servlet-name>
+  	<servlet-class>controller.getProblemSoloved</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>hello3</servlet-name>
+  	<url-pattern>/ALP/getProblemSoloved</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>hello4</servlet-name>
+  	<servlet-class>controller.updateProblemSolvedList</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>hello4</servlet-name>
+  	<url-pattern>/ALP/updateProblemSolvedList</url-pattern>
+  </servlet-mapping> -->
+  
+</web-app>
