@@ -1,6 +1,5 @@
-# ALP
-
-Aka 'Adaptive Lesson Planner'. 
+AKA  
+# 'Adaptive Lesson Planner'. 
 
 Why we should use ALP in Open edX research:
 
